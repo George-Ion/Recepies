@@ -30,17 +30,12 @@ A sleek, user-friendly web application for managing your favorite recipes! This 
 ---
 
 ## **Tech Stack**
-- **Frontend**: [Insert frontend framework or library used, e.g., React, Angular, or Vanilla JavaScript]
-- **Backend**: [Insert backend technology, e.g., Node.js, Django, Flask]
-- **Database**: [Specify database, e.g., SQLite, PostgreSQL, MongoDB]
+- **Frontend**: [Vanilla JavaScript (with HTML and CSS)]
+- **Backend**: [The application is using local storage for data persistenc]
+- **Database**: [Local Storage (for storing recipes)]
 - **Others**: [Any additional libraries or tools used, e.g., Axios, Bootstrap]
 
 ---
-
-## **Getting Started**
-
-### Prerequisites
-- [List any dependencies, e.g., Node.js, Python, etc.]
 
 ### Installation
 1. Clone the repository:
