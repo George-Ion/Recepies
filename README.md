@@ -33,11 +33,7 @@ A sleek, user-friendly web application for managing your favorite recipes! This 
 - **Frontend**: [Vanilla JavaScript (with HTML and CSS)]
 - **Backend**: [The application is using local storage for data persistenc]
 - **Database**: [Local Storage (for storing recipes)]
-- **Others**: [Any additional libraries or tools used, e.g., Axios, Bootstrap]
 
 ---
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/recipe-manager.git
+
